@@ -1,0 +1,112 @@
+{
+  "assetsByChunkName": {
+    "@dschau/particles.js": [
+      "@dschau/particles.js-044bda3a24f6e96d36f1.js",
+      "@dschau/particles.js-044bda3a24f6e96d36f1.js.map"
+    ],
+    "path---cryptocurrency-courses": [
+      "path---cryptocurrency-courses-02d9969f109a2bbdbf41.js",
+      "path---cryptocurrency-courses-02d9969f109a2bbdbf41.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-2328d1bcc95d47fa763f.js",
+      "component---src-pages-index-js-2328d1bcc95d47fa763f.js.map"
+    ],
+    "path---security": [
+      "path---security-6252ec3106174c257526.js",
+      "path---security-6252ec3106174c257526.js.map"
+    ],
+    "path---news-blogs": [
+      "path---news-blogs-85ec3e0f2ab3e25fddae.js",
+      "path---news-blogs-85ec3e0f2ab3e25fddae.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---spending-cryptocurrencies": [
+      "path---spending-cryptocurrencies-5fa94ce61b9cefa8097a.js",
+      "path---spending-cryptocurrencies-5fa94ce61b9cefa8097a.js.map"
+    ],
+    "path---secure-storage": [
+      "path---secure-storage-9f3c6647f4f5c89aff4e.js",
+      "path---secure-storage-9f3c6647f4f5c89aff4e.js.map"
+    ],
+    "path---cryptocurrency": [
+      "path---cryptocurrency-310adb04788b0ace0fda.js",
+      "path---cryptocurrency-310adb04788b0ace0fda.js.map"
+    ],
+    "component---src-templates-page-js": [
+      "component---src-templates-page-js-bea19d3492520e7f75e9.js",
+      "component---src-templates-page-js-bea19d3492520e7f75e9.js.map"
+    ],
+    "path---projects": [
+      "path---projects-f1b86b1d9ab47dbaef56.js",
+      "path---projects-f1b86b1d9ab47dbaef56.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-91809944e742f2cfc6e9.js",
+      "component---src-layouts-index-js-91809944e742f2cfc6e9.js.map"
+    ],
+    "path---tading-research": [
+      "path---tading-research-2bdb66659d1134ca2ba1.js",
+      "path---tading-research-2bdb66659d1134ca2ba1.js.map"
+    ],
+    "path---index": [
+      "path---index-241eeb0288f489cdf961.js",
+      "path---index-241eeb0288f489cdf961.js.map"
+    ],
+    "path---social-media": [
+      "path---social-media-6469e32e372d79f2c29d.js",
+      "path---social-media-6469e32e372d79f2c29d.js.map"
+    ],
+    "path---wallets": [
+      "path---wallets-fa43e348d1c2f058fbe3.js",
+      "path---wallets-fa43e348d1c2f058fbe3.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "commons": [
+      "commons-65df757ef885720e5d75.js",
+      "commons-65df757ef885720e5d75.js.map"
+    ],
+    "path---buy-cryptocurrencies": [
+      "path---buy-cryptocurrencies-a4f9d22a235fe3a4197e.js",
+      "path---buy-cryptocurrencies-a4f9d22a235fe3a4197e.js.map"
+    ],
+    "path---what-is-money": [
+      "path---what-is-money-4f9027b577242892359c.js",
+      "path---what-is-money-4f9027b577242892359c.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-1db04e5021b40904aca6.js",
+      "path---404-html-1db04e5021b40904aca6.js.map"
+    ],
+    "path---newsletters": [
+      "path---newsletters-09329684e2bb0cddf73a.js",
+      "path---newsletters-09329684e2bb0cddf73a.js.map"
+    ],
+    "path---earning-cryptocurrencies": [
+      "path---earning-cryptocurrencies-064029d9e04c1de2e0af.js",
+      "path---earning-cryptocurrencies-064029d9e04c1de2e0af.js.map"
+    ],
+    "app": [
+      "app-26ac2ab7e9e25d432eb8.js",
+      "app-26ac2ab7e9e25d432eb8.js.map"
+    ],
+    "path---podcasts": [
+      "path---podcasts-4a7a09f75a76e4983504.js",
+      "path---podcasts-4a7a09f75a76e4983504.js.map"
+    ],
+    "path---404": [
+      "path---404-1db04e5021b40904aca6.js",
+      "path---404-1db04e5021b40904aca6.js.map"
+    ],
+    "path---blockchain-explorers": [
+      "path---blockchain-explorers-3448ce4bc6825adf6fa5.js",
+      "path---blockchain-explorers-3448ce4bc6825adf6fa5.js.map"
+    ]
+  }
+}

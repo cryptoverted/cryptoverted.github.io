@@ -45,24 +45,24 @@
       "path---projects-f1b86b1d9ab47dbaef56.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-6ba19bbde884d0fc8535.js",
-      "component---src-layouts-index-js-6ba19bbde884d0fc8535.js.map"
+      "component---src-layouts-index-js-faed2c7bc7297fa2df57.js",
+      "component---src-layouts-index-js-faed2c7bc7297fa2df57.js.map"
     ],
     "path---tading-research": [
       "path---tading-research-2bdb66659d1134ca2ba1.js",
       "path---tading-research-2bdb66659d1134ca2ba1.js.map"
     ],
     "path---index": [
-      "path---index-241eeb0288f489cdf961.js",
-      "path---index-241eeb0288f489cdf961.js.map"
+      "path---index-50120353c442f1aa4fb3.js",
+      "path---index-50120353c442f1aa4fb3.js.map"
     ],
     "path---social-media": [
       "path---social-media-6469e32e372d79f2c29d.js",
       "path---social-media-6469e32e372d79f2c29d.js.map"
     ],
     "path---wallets": [
-      "path---wallets-fa43e348d1c2f058fbe3.js",
-      "path---wallets-fa43e348d1c2f058fbe3.js.map"
+      "path---wallets-b28eb8f78f9947c348a7.js",
+      "path---wallets-b28eb8f78f9947c348a7.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -93,12 +93,16 @@
       "path---earning-cryptocurrencies-5de620099ed70a1285ac.js.map"
     ],
     "app": [
-      "app-26ac2ab7e9e25d432eb8.js",
-      "app-26ac2ab7e9e25d432eb8.js.map"
+      "app-139a102a29bf09397c3a.js",
+      "app-139a102a29bf09397c3a.js.map"
     ],
     "path---podcasts": [
-      "path---podcasts-4a7a09f75a76e4983504.js",
-      "path---podcasts-4a7a09f75a76e4983504.js.map"
+      "path---podcasts-bfb7ac34773ef15fb32b.js",
+      "path---podcasts-bfb7ac34773ef15fb32b.js.map"
+    ],
+    "path---coming-soon": [
+      "path---coming-soon-8dd613cb74d8c538e00b.js",
+      "path---coming-soon-8dd613cb74d8c538e00b.js.map"
     ],
     "path---404": [
       "path---404-1db04e5021b40904aca6.js",

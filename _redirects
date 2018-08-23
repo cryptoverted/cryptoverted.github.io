@@ -1,0 +1,4 @@
+# my manually set redirects
+/cryptocurrency             /resources/bitcoin
+/buy-cryptocurrencies       /resources/buy-bitcoin
+/wallets                    /resources/software-wallets

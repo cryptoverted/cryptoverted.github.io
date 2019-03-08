@@ -7,8 +7,8 @@
 /advanced-bitcoin           /resources/advanced-bitcoin
 /cryptocurrency-trackers    /resources/cryptocurrency-trackers
 /security                   /resources/security
-/earning-cryptocurrencies   /resources/earn-bitcoin
-/spending-cryptocurrencies  /resources/spend-bitcoin
+/earning-cryptocurrencies   /
+/spending-cryptocurrencies  /
 /what-is-money              /resources/what-is-money
 /cryptocurrency-courses     /resources/bitcoin-courses
 /news-blogs                 /resources/news
@@ -19,3 +19,5 @@
 /tading-research            /resources/data
 /blockchain-explorers       /resources/blockchain-explorers
 /other-resources            /resources/other
+/resources/spend-bitcoin    /
+resources/earn-bitcoin      /

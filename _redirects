@@ -1,0 +1,23 @@
+# my manually set redirects
+/cryptocurrency             /resources/bitcoin
+/buy-cryptocurrencies       /resources/buy-bitcoin
+/secure-storage             /resources/secure-storage
+/wallets                    /resources/software-wallets
+/hardware-wallets           /resources/hardware-wallets
+/advanced-bitcoin           /resources/advanced-bitcoin
+/cryptocurrency-trackers    /resources/cryptocurrency-trackers
+/security                   /resources/security
+/earning-cryptocurrencies   /
+/spending-cryptocurrencies  /
+/what-is-money              /resources/what-is-money
+/cryptocurrency-courses     /resources/bitcoin-courses
+/news-blogs                 /resources/news
+/podcasts                   /resources/podcasts
+/newsletters                /resources/newsletters
+/social-media               /resources/social-media
+/books                      /resources/books
+/tading-research            /resources/data
+/blockchain-explorers       /resources/blockchain-explorers
+/other-resources            /resources/other
+/resources/spend-bitcoin    /
+resources/earn-bitcoin      /

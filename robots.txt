@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://cryptoverted.github.io/sitemap-index.xml
-Host: https://cryptoverted.github.io
